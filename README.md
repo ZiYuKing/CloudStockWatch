@@ -1,6 +1,4 @@
 ﻿# CloudStockWatch
-狐蒂云脚本|狐蒂云活动|狐蒂云自动购买|狐蒂云定时刷新
-
 CloudStockWatch 是一个面向 Windows 的 WinForms 桌面工具，用于监控狐蒂云（`szhdy.com`）活动页服务器库存，并在补货时触发通知或自动购买流程。
 
 ## 1. 项目定位
@@ -97,6 +95,7 @@ CloudStockWatch 是一个面向 Windows 的 WinForms 桌面工具，用于监控
 ## 7. 免责声明
 
 本项目仅用于技术学习与自动化流程实践。请遵守目标平台服务条款与当地法律法规，风险由使用者自行承担。
+
 
 
 
