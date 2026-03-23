@@ -1,5 +1,6 @@
 ﻿# CloudStockWatch
-CloudStockWatch 是一个面向 Windows 的 WinForms 桌面工具，用于监控狐蒂云（`szhdy.com`）活动页服务器库存，并在补货时触发通知或自动购买流程。
+CloudStockWatch 是一个面向 Windows 的桌面工具，用于监控狐蒂云 | 核云活动页服务器库存，并在补货时触发通知或自动购买流程。
+[点击下载](https://pan.quark.cn/s/72343d789805?pwd=Gs9H) CloudStockWatch.exe
 
 ## 1. 项目定位
 
@@ -26,6 +27,7 @@ CloudStockWatch 是一个面向 Windows 的 WinForms 桌面工具，用于监控
 ### 2.2 登录
 
 - 支持点击“未登录，点击登录”超链接进行登录操作
+- 掉线自动登录，一键过验证码
 - 在登录成功后自动写入本地配置
 - 支持“退出登录”切换账号
 
